@@ -5,14 +5,14 @@ const About = () => {
 		<>
 			<Helmet>
 				<meta charSet="utf-8" />
-				<title>Обо мне</title>
+				<title>О нас</title>
 				<meta name="description" content="Страница обо мне" />
 				<meta
 					name="keywords"
-					content="ТСИ, КФЕН, ИМИ, ИВТ-22-1, БЛОГ, ПАВЛОВ ДМИТРИЙ, О ПАВЛОВЕ ДМИТРИЕ И ЕГО БЛОГЕ"
+					content="ТСИ, КФЕН, ИМИ, ИВТ-22-1, БЛОГ, ФЕДОРОВ АЙААЛ"
 				/>
 			</Helmet>
-			<div>Обо мне</div>
+			<div>О нас</div>
 		</>
 	)
 }
