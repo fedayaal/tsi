@@ -8,7 +8,7 @@ export const Footer = () => {
 				<Logo />
 			</Link>
 
-			<div className="">Павлов Дмитрий Б-ИВТ-22-2</div>
+			<div className="">Федоров Айаал Б-ИВТ-22-1</div>
 		</footer>
 	)
 }
