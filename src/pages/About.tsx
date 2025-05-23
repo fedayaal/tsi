@@ -9,7 +9,7 @@ const About = () => {
 				<meta name="description" content="Страница обо мне" />
 				<meta
 					name="keywords"
-					content="ТСИ, КФЕН, ИМИ, ИВТ-22-1, БЛОГ, ФЕДОРОВ АЙААЛ"
+					content="ТСИ, КФЕН, ИМИ, ИВТ-22-1, БЛОГ, ФЕДОРОВ АЙААЛ, БЛОГ ФЕДОРОВ АЙААЛ"
 				/>
 			</Helmet>
 			<div>О нас</div>
