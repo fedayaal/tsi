@@ -7,14 +7,14 @@ const Home = () => {
 		<>
 			<Helmet>
 				<meta charSet="utf-8" />
-				<title>Главная страница блога Pavlov Dmitry</title>
+				<title>Главная страница блога Fedorov Ayaal</title>
 				<meta
 					name="description"
-					content="Главная страница блога Pavlov Dmitry"
+					content="Главная страница блога Fedorov Ayaal"
 				/>
 				<meta
 					name="keywords"
-					content="ТСИ, КФЕН, ИМИ, ИВТ-22-1, БЛОГ, ПАВЛОВ ДМИТРИЙ, ПАВЛОВ ДМИТРИЙ БЛОГ"
+					content="ТСИ, КФЕН, ИМИ, ИВТ-22-1, БЛОГ, ФЕДОРОВ АЙААЛ, ФЕДОРОВ АЙААЛ БЛОГ"
 				/>
 			</Helmet>
 			<div>

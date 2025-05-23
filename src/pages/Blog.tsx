@@ -34,7 +34,7 @@ const Blog = () => {
 				<meta name="description" content="Блог Pavlov Dmitry" />
 				<meta
 					name="keywords"
-					content="ТСИ, КФЕН, ИМИ, ИВТ-22-1, БЛОГ, ПАВЛОВ ДМИТРИЙ, О ПАВЛОВ ДМИТРИЙ И ЕГО БЛОГ"
+					content="ТСИ, КФЕН, ИМИ, ИВТ-22-1, БЛОГ, ФЕДОРОВ АЙААЛ, ФЕДОРОВ АЙААЛ И ЕГО БЛОГ"
 				/>
 			</Helmet>
 			<Modal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)}>
